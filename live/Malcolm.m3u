@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:1340
-#EXTINF:4.004,
+#EXTINF:0,
 https://s12.zplayer.live/hls/,5fxcsjr6w6nufvsa6kqu7r4cujq35yg2txchxsjomqqp2y57r26yrcff46ca,.urlset/master.m3u8
-#EXTINF:2.002,
+#EXTINF:1,
 https://s12.zplayer.live/hls/,5fxcqmb6w6nufvsa6kqu7uuiushddichjjqjc4mmacvktvwgyqwesyrt2iwa,.urlset/master.m3u8
